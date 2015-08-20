@@ -379,7 +379,8 @@ var TPP_COMMANDS = [
     "f", "b", "l", "r",
     "rf", "rl", "rb" ,"rr", 
 	"dd", "du", "dl", "dr", 
-    "r1", "r2", "l1", "l2"
+    "r1", "r2", "l1", "l2",
+	"democracy", "demo", "anarchy", "chaos"
 ];
 
 var EDIT_DISTANCE_TRESHOLD = 2;
