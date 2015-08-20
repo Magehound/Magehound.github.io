@@ -375,12 +375,14 @@ function add_custom_css(parts){
 
 var TPP_COMMANDS = [
     "arl", "arr", "aru", "ard",
-    "m", "u", "g", "a",
+    "m", "u", "g", "a", "e", "bs",
     "f", "b", "l", "r",
     "rf", "rl", "rb" ,"rr", 
 	"dd", "du", "dl", "dr", 
     "r1", "r2", "l1", "l2",
-	"democracy", "demo", "anarchy", "chaos"
+	"democracy", "demo", "anarchy", "chaos",
+	"delayup", "delaydn", "roll", "baby steps",
+	"banmenu", "banm", "unbanmenu", "unbanm"
 ];
 
 var EDIT_DISTANCE_TRESHOLD = 2;
